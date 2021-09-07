@@ -5,7 +5,7 @@
 ## Контактная информация
 
 - **tel** — <a href="tel:+79650713187">+7 965 071 3187</a>
-- **mail** — <a href="mailto:skabass@yandex.ru ">skabass@yandex.ru</a>
+- **mail** — <a href="mailto:skabass@yandex.ru">skabass@yandex.ru</a>
 - **telegram** - <a href="https://t.me/dreadwood">@dreadwood</a>
 - **city** — Санкт-Петербург
 
