@@ -43,18 +43,18 @@ _ООО ПРОФИ — Январь 2017 — Март 2020_
 
 С примерами кода можно ознакомиться на [Github](github.com/dreadwood ) или по ссылкам:
 
-__Javascript__
+**Javascript**
 
-- ⭐️ [Кексобукинг](dreadwood.github.io/keksobooking)
-- ⭐️ [Кексограм](dreadwood.github.io/kekstagram )
+- ⭐️ [Кексобукинг](https://dreadwood.github.io/keksobooking/)
+- ⭐️ [Кексограм](https://dreadwood.github.io/kekstagram/)
 
-__Верстка__
+**Верстка**
 
-- ⭐️ [Магазин Кэт-энерджи](srg-catenergy.netlify.app)
-- ⭐️ [Лендинг Productly](dreadwood.github.io/productly)
-- ⭐️ [Лендинг Израиль](israil.netlify.app)
-- ⭐️ [Лендинг Euro-trip](dreadwood.github.io/euro-trip)
-- ⭐️ [Магазин мороженного (desktop only)](dreadwood.github.io/gllacy)
+- ⭐️ [Магазин Кэт-энерджи](https://srg-catenergy.netlify.app/)
+- ⭐️ [Лендинг Productly](https://dreadwood.github.io/productly/)
+- ⭐️ [Лендинг Израиль](https://israil.netlify.app/)
+- ⭐️ [Лендинг Euro-trip](https://dreadwood.github.io/euro-trip/)
+- ⭐️ [Магазин мороженного (desktop only)](https://dreadwood.github.io/gllacy/)
 
 ## О себе	
 
