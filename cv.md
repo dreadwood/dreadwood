@@ -14,6 +14,7 @@
 
 Нравится семантический и доступный HTML, БЭМ в CSS, современный JS (ES6+). Знаю такое Mobile First и MVC. Работал с gulp, webpack, sass, postcss, git, jira, shell. 
 
+
 ## Опыт	
 
 ### Стажировка Вконтакте
@@ -44,16 +45,16 @@ _ООО ПРОФИ — Январь 2017 — Март 2020_
 
 __Javascript__
 
-⭐️ [Кексобукинг](dreadwood.github.io/keksobooking)
-⭐️ [Кексограм](dreadwood.github.io/kekstagram )
+- ⭐️ [Кексобукинг](dreadwood.github.io/keksobooking)
+- ⭐️ [Кексограм](dreadwood.github.io/kekstagram )
 
 __Верстка__
 
-⭐️ [Магазин Кэт-энерджи](srg-catenergy.netlify.app)
-⭐️ [Лендинг Productly](dreadwood.github.io/productly)
-⭐️ [Лендинг Израиль](israil.netlify.app)
-⭐️ [Лендинг Euro-trip](dreadwood.github.io/euro-trip)
-⭐️ [Магазин мороженного (desktop only)](dreadwood.github.io/gllacy)
+- ⭐️ [Магазин Кэт-энерджи](srg-catenergy.netlify.app)
+- ⭐️ [Лендинг Productly](dreadwood.github.io/productly)
+- ⭐️ [Лендинг Израиль](israil.netlify.app)
+- ⭐️ [Лендинг Euro-trip](dreadwood.github.io/euro-trip)
+- ⭐️ [Магазин мороженного (desktop only)](dreadwood.github.io/gllacy)
 
 ## О себе	
 
