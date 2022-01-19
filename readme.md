@@ -46,6 +46,7 @@ _Январь 2017 — Март 2020_
 
 **Javascript** 
 
+- ⭐️ [Большое путешествие](https://github.com/dreadwood/big-trip#readme)
 - ⭐️ [Кексобукинг](https://dreadwood.github.io/keksobooking/)
 - ⭐️ [Кексограм](https://dreadwood.github.io/kekstagram/)
 
