@@ -36,14 +36,14 @@ _Январь 2017 — Март 2020_
 
 ## Портфолио	
 
-С примерами кода можно ознакомиться на Github или по ссылкам:
-
 **Javascript** 
 
-- ⭐️ [Большое путешествие](https://github.com/dreadwood/big-trip#readme)
+- ⭐️ [Большое путешествие](https://dreadwood.github.io/big-trip/)
 - ⭐️ [Таскменеджер](https://dreadwood.github.io/taskmanager/)
 - ⭐️ [Кексобукинг](https://dreadwood.github.io/keksobooking/)
 - ⭐️ [Кексограм](https://dreadwood.github.io/kekstagram/)
+- ⭐️ [Кексограм](https://dreadwood.github.io/kekstagram/)
+- ⭐️ [Генератор форм SmallForm](https://dreadwood.github.io/smallform/)
 
 **Верстка** 
 
@@ -52,6 +52,8 @@ _Январь 2017 — Март 2020_
 - ⭐️ [Лендинг Израиль](https://israil.netlify.app/)
 - ⭐️ [Лендинг Euro-trip](https://dreadwood.github.io/euro-trip/)
 - ⭐️ [Магазин мороженного Gllacy (desktop only)](https://dreadwood.github.io/gllacy/)
+
+С примерами кода подробней можно ознакомиться на Github.
 
 ## О себе	
 
