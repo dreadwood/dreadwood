@@ -12,7 +12,7 @@
 
 ## Навыки и знания	
 
-Нравится семантический и доступный HTML, БЭМ в CSS, современный JS (ES6+). Знаю такое Mobile First и MVC. Работал с gulp, webpack, sass, postcss, git, jira, shell. 
+Нравится семантический и доступный HTML, БЭМ в CSS, современный JS (ES6+). Знаю такое Mobile First и MVP. Работал с gulp, webpack, sass, postcss, git, jira, shell. 
 
 ## Опыт	
 
@@ -41,7 +41,6 @@ _Январь 2017 — Март 2020_
 - ⭐️ [Большое путешествие](https://dreadwood.github.io/big-trip/)
 - ⭐️ [Таскменеджер](https://dreadwood.github.io/taskmanager/)
 - ⭐️ [Кексобукинг](https://dreadwood.github.io/keksobooking/)
-- ⭐️ [Кексограм](https://dreadwood.github.io/kekstagram/)
 - ⭐️ [Кексограм](https://dreadwood.github.io/kekstagram/)
 - ⭐️ [Генератор форм SmallForm](https://dreadwood.github.io/smallform/)
 
