@@ -1,13 +1,13 @@
 # Быков Сергей 
 
-<img align="right" width="230" heigth="auto" alt="Быков Сергей на фоне купола Дома Зингера в Санкт-Петербурге в худи с логотипом NASA" src="photo.jpg">
+<img align="right" width="230" heigth="auto" alt="Sergey Bykov на фоне купола Дома Зингера в Санкт-Петербурге в худи с логотипом NASA" src="photo.jpg">
 
 ## Контактная информация
 
-- **tel** — <a href="tel:+79650713187">+7 965 071 3187</a>
-- **mail** — <a href="mailto:skabass@yandex.ru">skabass@yandex.ru</a>
+- **tel** — <a href="tel:+995591203061">+995 591 20 30 61</a>
+- **mail** — <a href="mailto:skabass@yandex.ru">skabassjob@gmail.com</a>
 - **telegram** - <a href="https://t.me/dreadwood">@dreadwood</a>
-- **city** — Санкт-Петербург
+- **city** — Tbilisi, Georgia
 
 
 ## Навыки и знания	
