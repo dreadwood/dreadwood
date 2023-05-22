@@ -1,6 +1,6 @@
 **Hi!** 👻
 
-I am a frontend developer, worked at Padverb, VK group. Currently developing padverb.com
+I am a frontend developer, worked at Resolla and VK group. Currently developing padverb.com
 
 🛠 My tech stack: React, Redux, Redux Toolkit, Typescript, JavaScript, Node.js, Express, Sass, Webpack, Gulp.
 
